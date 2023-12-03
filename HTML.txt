@@ -10,3 +10,5 @@ b *= 3;
 c *= 10;
 
 var myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
+
+    <figcaption>Cats love lasagna.</figcaption>
