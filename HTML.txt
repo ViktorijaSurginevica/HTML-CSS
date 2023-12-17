@@ -12,3 +12,13 @@ c *= 10;
 var myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
 
     <figcaption>Cats love lasagna.</figcaption>
+
+function testEqual(val) {
+  if (val == 12) {
+    // Change this line
+    return "Equal";
+  }
+  return "Not equal";
+}
+// Change this value to test
+testEqual(10);
